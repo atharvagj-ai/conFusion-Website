@@ -31,7 +31,7 @@
 
 .hidden-xs-down{
     display: xs-none !important ;
-    display: sm-block;
+    display: sm-block !important;
     
 }
 
